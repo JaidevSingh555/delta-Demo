@@ -1,2 +1,2 @@
 # delta-Demo
-demo for css
+Demo for css.
